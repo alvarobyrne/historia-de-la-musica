@@ -9,8 +9,19 @@ import { Timeline } from '@knight-lab/timelinejs';
 // See below for more about options.
 const options = {
     hash_bookmarks: true,
+    debug: true,
 }
 const elementId = 'timeline-embed';
 const spreadSheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSpdiqZP7osF4OPN9rphApTSRIWah5siMdCPZ4zi9R201G6EwXScw4qKMXVdUWZKOSAoVU-6ttrdUzW/pubhtml';
 const timeline = new Timeline(elementId, spreadSheetUrl, options);
+console.log('%c  timeline:', 'color: #0e93e0;background: #aaefe5;', timeline);
 
+timeline.on('zoom_in', (data)=> {
+    console.log('%c  data:', 'color: #0e93e0;background: #aaefe5;', data);
+
+})
+
+timeline.on('zoom_out', (data)=> {
+    console.log('%c  data:', 'color: #0e93e0;background: #aaefe5;', data);
+
+})
