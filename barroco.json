@@ -1,0 +1,284 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "1685"
+            },
+            "media": {
+                "caption": "Johann Sebastian Bach",
+                "url": "https://es.wikipedia.org/wiki/Johann_Sebastian_Bach"
+            },
+            "text": {
+                "headline": "Johann Sebastian Bach",
+                "text": "Germany</br>Baroque Composer"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1685"
+            },
+            "media": {
+                "caption": "George Frideric Handel",
+                "url": "https://es.wikipedia.org/wiki/George_Frideric_Handel"
+            },
+            "text": {
+                "headline": "George Frideric Handel",
+                "text": "Germany / England</br>Baroque Composer"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1678"
+            },
+            "media": {
+                "caption": "Antonio Vivaldi",
+                "url": "https://es.wikipedia.org/wiki/Antonio_Vivaldi"
+            },
+            "text": {
+                "headline": "Antonio Vivaldi",
+                "text": "Italy</br>Baroque Composer, 'The Red Priest'"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1567"
+            },
+            "media": {
+                "caption": "Claudio Monteverdi",
+                "url": "https://es.wikipedia.org/wiki/Claudio_Monteverdi"
+            },
+            "text": {
+                "headline": "Claudio Monteverdi",
+                "text": "Italy</br>Composer, Pioneer of Opera"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1632"
+            },
+            "media": {
+                "caption": "Jean-Baptiste Lully",
+                "url": "https://es.wikipedia.org/wiki/Jean-Baptiste_Lully"
+            },
+            "text": {
+                "headline": "Jean-Baptiste Lully",
+                "text": "France</br>Court Composer"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1659"
+            },
+            "media": {
+                "caption": "Henry Purcell",
+                "url": "https://es.wikipedia.org/wiki/Henry_Purcell"
+            },
+            "text": {
+                "headline": "Henry Purcell",
+                "text": "England</br>Baroque Composer"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1679"
+            },
+            "media": {
+                "caption": "Jan Dismas Zelenka",
+                "url": "https://es.wikipedia.org/wiki/Jan_Dismas_Zelenka"
+            },
+            "text": {
+                "headline": "Jan Dismas Zelenka",
+                "text": "Bohemia (Czech Republic)</br>Baroque Composer"
+            },
+            "group": "Music"
+        },
+        {
+            "start_date": {
+                "year": "1599"
+            },
+            "media": {
+                "caption": "Diego Velázquez",
+                "url": "https://es.wikipedia.org/wiki/Diego_Velázquez"
+            },
+            "text": {
+                "headline": "Diego Velázquez",
+                "text": "Spain</br>Baroque Painting Master"
+            },
+            "group": "Painting"
+        },
+        {
+            "start_date": {
+                "year": "1606"
+            },
+            "media": {
+                "caption": "Rembrandt",
+                "url": "https://es.wikipedia.org/wiki/Rembrandt"
+            },
+            "text": {
+                "headline": "Rembrandt",
+                "text": "Netherlands</br>Baroque Painting Master"
+            },
+            "group": "Painting"
+        },
+        {
+            "start_date": {
+                "year": "1577"
+            },
+            "media": {
+                "caption": "Peter Paul Rubens",
+                "url": "https://es.wikipedia.org/wiki/Peter_Paul_Rubens"
+            },
+            "text": {
+                "headline": "Peter Paul Rubens",
+                "text": "Flanders</br>Baroque Painting Master"
+            },
+            "group": "Painting"
+        },
+        {
+            "start_date": {
+                "year": "1541"
+            },
+            "media": {
+                "caption": "El Greco",
+                "url": "https://es.wikipedia.org/wiki/El_Greco"
+            },
+            "text": {
+                "headline": "El Greco",
+                "text": "Greece / Spain</br>Baroque Painting Master"
+            },
+            "group": "Painting"
+        },
+        {
+            "start_date": {
+                "year": "1638"
+            },
+            "media": {
+                "caption": "Louis XIV",
+                "url": "https://es.wikipedia.org/wiki/Louis_XIV"
+            },
+            "text": {
+                "headline": "Louis XIV",
+                "text": "France</br>King of France, Absolute Monarchy, 'L'État, c'est moi'"
+            },
+            "group": "Historical Leadership"
+        },
+        {
+            "start_date": {
+                "year": "1683"
+            },
+            "media": {
+                "caption": "Felipe V",
+                "url": "https://es.wikipedia.org/wiki/Felipe_V"
+            },
+            "text": {
+                "headline": "Felipe V",
+                "text": "Spain</br>King of Spain"
+            },
+            "group": "Historical Leadership"
+        },
+        {
+            "start_date": {
+                "year": "1672"
+            },
+            "media": {
+                "caption": "Peter the Great",
+                "url": "https://es.wikipedia.org/wiki/Peter_the_Great"
+            },
+            "text": {
+                "headline": "Peter the Great",
+                "text": "Russia</br>Tsar of Russia, Founder of Saint Petersburg, Romanov Dynasty"
+            },
+            "group": "Historical Leadership"
+        },
+        {
+            "start_date": {
+                "year": "1491"
+            },
+            "media": {
+                "caption": "Saint Ignatius of Loyola",
+                "url": "https://es.wikipedia.org/wiki/Saint_Ignatius_of_Loyola"
+            },
+            "text": {
+                "headline": "Saint Ignatius of Loyola",
+                "text": "Spain</br>Leader of the Counter-Reformation, Founder of the Jesuits (Inferred)"
+            },
+            "group": "Religious Leadership"
+        },
+        {
+            "start_date": {
+                "year": "1596"
+            },
+            "media": {
+                "caption": "René Descartes",
+                "url": "https://es.wikipedia.org/wiki/René_Descartes"
+            },
+            "text": {
+                "headline": "René Descartes",
+                "text": "France</br>Philosopher and Mathematician"
+            },
+            "group": "Philosophy"
+        },
+        {
+            "start_date": {
+                "year": "1643"
+            },
+            "media": {
+                "caption": "Isaac Newton",
+                "url": "https://es.wikipedia.org/wiki/Isaac_Newton"
+            },
+            "text": {
+                "headline": "Isaac Newton",
+                "text": "England</br>Physicist and Mathematician"
+            },
+            "group": "Philosophy / Science"
+        },
+        {
+            "start_date": {
+                "year": "1622"
+            },
+            "media": {
+                "caption": "Molière",
+                "url": "https://es.wikipedia.org/wiki/Molière"
+            },
+            "text": {
+                "headline": "Molière",
+                "text": "France</br>Playwright"
+            },
+            "group": "Literature"
+        },
+        {
+            "start_date": {
+                "year": "1564"
+            },
+            "media": {
+                "caption": "William Shakespeare",
+                "url": "https://es.wikipedia.org/wiki/William_Shakespeare"
+            },
+            "text": {
+                "headline": "William Shakespeare",
+                "text": "England</br>Playwright and Poet"
+            },
+            "group": "Literature"
+        },
+        {
+            "start_date": {
+                "year": "1547"
+            },
+            "media": {
+                "caption": "Miguel de Cervantes",
+                "url": "https://es.wikipedia.org/wiki/Miguel_de_Cervantes"
+            },
+            "text": {
+                "headline": "Miguel de Cervantes",
+                "text": "Spain</br>Author of Don Quixote"
+            },
+            "group": "Literature"
+        }
+    ]
+}
